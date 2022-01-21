@@ -35,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=agentmishra&show_icons=true&theme=radical&line_height=27" alt="Amit Kumar Mishra's github stats" />
 </a>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agentmishrar&langs_count=10)](https://github.com/agentmishra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agentmishra&langs_count=10)](https://github.com/agentmishra/github-readme-stats)
 
 <!--
 ### Hi there 👋
