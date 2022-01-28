@@ -33,12 +33,8 @@
 <a href="https://github.com/agentmishra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=agentmishra&&include_all_commits=true&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Amit Kumar Mishra's github stats" />
 </a>
-<br />
-<a href="https://info.flagcounter.com/fTMF"><img src="https://s01.flagcounter.com/count2/fTMF/bg_FFFFFF/txt_000000/border_FFFFFF/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> 
-  
-<a href="http://livetrafficfeed.com" data-num="5" data-width="200" data-responsive="0" data-time="Asia%2FKolkata" data-root="0" data-cheader="2853a8" data-theader="ffffff" data-border="2853a8" data-background="ffffff" data-normal="000000" data-link="135d9e" target="_blank" id="LTF_live_website_visitor"><script type="text/javascript" src="//cdn.livetrafficfeed.com/static/v4/live.js"></script>
-  
-  
+
+
   
 
 <!--
