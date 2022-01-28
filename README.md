@@ -28,6 +28,8 @@
   
 <br>
   
+<a href="https://info.flagcounter.com/fTMF"><img src="https://s01.flagcounter.com/count2/fTMF/bg_FFFFFF/txt_000000/border_FFFFFF/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> 
+  
 <a href="https://github.com/agentmishra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentmishra&theme=radical" />
 </a>
