@@ -28,7 +28,7 @@
   
 <br>  
 <a href="https://github.com/agentmishra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentmishra&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentmishra&langs_count=10&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/agentmishra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=agentmishra&&include_all_commits=true&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Amit Kumar Mishra's github stats" />
