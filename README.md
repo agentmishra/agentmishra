@@ -26,14 +26,24 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 <p align="center">
   
-<br>  
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=agentmishra" alt="lokesh parmar" /> </p> -->
+<br>
+<a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=agentmishra&column=7&no-frame=true" /><br>
+<a href="#"> <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=agentmishra&theme=tokyonight" /> </a><br>
+<a href="#"> <img width="40%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=agentmishra&langs_count=10&layout=compact&theme=radical" /> </a>
+<br>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agentmishra&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /></a>
+<br><br>
+<a href="#"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=agentmishra&theme=xcode" /></a><br>
+  
+<!-- <br>  
 <a href="https://github.com/agentmishra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentmishra&langs_count=10&theme=radical" />
 </a>
 <a href="https://github.com/agentmishra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=agentmishra&&include_all_commits=true&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Amit Kumar Mishra's github stats" />
 </a>
-
+ -->
 
   
 
