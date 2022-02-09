@@ -28,10 +28,10 @@
   
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=agentmishra" alt="lokesh parmar" /> </p> -->
 <br>
-<a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=agentmishra&column=7&no-frame=true" /><br>
-<a href="#"> <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=agentmishra&theme=tokyonight" /> </a><br>
+<a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=agentmishra&column=7&no-frame=true" /><br><br>
+<a href="#"> <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=agentmishra&theme=tokyonight" /> </a><br><br>
 <a href="#"> <img width="40%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=agentmishra&langs_count=10&layout=compact&theme=radical" /> </a>
-<br>
+<br><br>
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agentmishra&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /></a>
 <br><br>
 <a href="#"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=agentmishra&theme=xcode" /></a><br>
