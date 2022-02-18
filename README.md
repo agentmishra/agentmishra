@@ -72,7 +72,7 @@
 <a href="#"> <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=agentmishra&theme=tokyonight" /> </a><br><br>
 <a href="#"> <img width="40%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=agentmishra&langs_count=10&layout=compact&theme=radical" /> </a>
 <br><br>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agentmishra&&include_all_commits=true&count_private=true&show_icons=true&&theme=radical&hide_border=true&line_height=27" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agentmishra&&include_all_commits=true&count_private=true&show_icons=true&&theme=radical&hide_border=true" /></a>
 <br><br>
 <a href="#"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=agentmishra&theme=xcode" /></a><br>
  </p>
