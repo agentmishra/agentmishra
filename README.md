@@ -74,7 +74,7 @@
 <a href="#"> <img width="40%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=agentmishra&langs_count=10&layout=compact&theme=radical" /> </a>
 <br><br>
 <!--<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agentmishra&&include_all_commits=true&count_private=true&show_icons=true&&theme=radical" /></a>-->
-  <a href="#"><img align="center" src="[https://github-readme-stats.vercel.app/api?username=agentmishra&&include_all_commits=true&count_private=true&show_icons=true&&theme=radical](https://github-readme-stats.vercel.app/api?username=agentmishra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&show_icons=true)" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agentmishra&&include_all_commits=true&count_private=true&show_icons=true&&theme=radical" /></a>
 <br><br>
 <!--<a href="#"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=agentmishra&theme=xcode" /></a><br>-->
 <a href="#"> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=agentmishra&theme=xcode" /></a><br>
